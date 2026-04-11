@@ -7,7 +7,7 @@
  *   2. Push index.html + app.js to GitHub → enable Pages.
  */
 
-const HF_SPACE_URL = 'https://sumit989-ai-backend.hf.space';
+const HF_SPACE_URL = 'https://sumit989-test-run-before-deploying.hf.space';
 
 // Resolve full API URL — uses HF Space on GitHub Pages, relative path locally
 function getEndpoint(path) {
